@@ -1,0 +1,9 @@
+{
+  "token": "token",
+  "prefix": "prefix",
+  "version": "b1.0.0",
+  "webhook": "",
+  "spamMSG": "",
+  "serverName": "",
+  "banMessage": ""
+}
